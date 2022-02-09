@@ -1,0 +1,15 @@
+Name - Laksh Gupta
+Total Count of correctly tagged words, in one pass - 64195
+Total count of words, in one pass through the test data - 73523
+Percentage correct - 87.31281367735266
+Something I learned doing this assignment:
+	I learned a lot about HMM models and how to train them. I also learned how
+	to read and write to text files and how to execute a python files from another
+	python file.
+
+
+Biggest challange I faced doing this assignment:
+	The biggest challange I faced during this assignment was debugging especially with
+	the larger data sets. As the size of the data set grew, the time it took to run the 
+	program grew exponentially, and every edit I made to the code would take 10-15 mins to 
+	run and test properly. 
